@@ -9,8 +9,8 @@ Exploratory Data Analysis (EDA): data manipulation using pandas
 
 # Section 3
 Data visualization
-
+Using matplotlib, seaborn, plotly.
 Sometimes it's tricky to choose the right graph to display your data. I like the guide in [data-to-viz](https://www.data-to-viz.com/)
 
 # Section 4
-Machine learning models
+Introduction to Machine learning models with Python
